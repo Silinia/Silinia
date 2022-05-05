@@ -4,10 +4,17 @@ Salut 👋 Moi c'est Thomas !
 Développeur Web Junior
 ----------------------
 
-Qui suis-je ? Volontaire, ambitieux, rigoureux, et surtout, désireux d'apprendre et ce, dans tous les domaines. J'aime la culture générale, tester et savoir faire plein de choses, voyager, découvrir encore et toujours. Cela vaut tout aussi bien pour le coté professionnel, où je cherche la satisfaction personnelle, être content de soi, développer ses compétences pour toujours aller plus loin, et devenir de plus en plus fier et heureux du travail accompli. Parcours : Chauffeur TAXI/VSL, Armée de l'Air, Armée de Terre, Scaphandrier, je me suis bien éclaté en pratiquant ces différents métier. Cependant un malheureux et grave accident à l'intérieur de mon scaphandre m'a obligé de m'arrêter dans ma quête de sensations. Une page s'est tourné lorsque j'ai décidé de transformer cette peine, en opportunité. Aujourd'hui tourné vers le monde du Web, j'y découvre une réelle appaitance qui relance mon ambition a son plein régime ! Ma recherche : Aujourd'hui je cherche à développer mes compétences et devenir bon, pour ensuite devenir meilleur. Je cherche une entreprise dans laquelle je pourrai évoluer et m'investir.
+# Qui suis-je ?
+Volontaire, ambitieux, rigoureux, et surtout, désireux d'apprendre et ce, dans tous les domaines. J'aime la culture générale, tester et savoir faire tout et n'importe quoi, voyager, découvrir encore et toujours. Tout cela est également valable pour le coté professionnel, où je cherche la satisfaction personnelle, ainsi que le développement de compétences pour toujours aller plus loin, et devenir de plus en plus fier et heureux du travail réalisé.
+
+# Mon parcours :
+Chauffeur TAXI/VSL, Armée de l'Air, Armée de Terre, Scaphandrier, je me suis bien éclaté en pratiquant ces différents métiers. Cependant un malheureux et grave accident à l'intérieur de mon scaphandre m'a obligé à m'arrêter dans ma quête de sensations. Une page s'est tourné lorsque j'ai décidé de transformer cette peine, en opportunité. Aujourd'hui tourné vers le monde du Web, j'y découvre une réelle appaitance qui relance mon ambition à son plein régime !
+
+# Ma recherche :
+Aujourd'hui je cherche à développer mes compétences et devenir bon, pour ensuite devenir meilleur. Je cherche une entreprise dans laquelle je pourrai évoluer et m'investir. Ma recherche concerne donc un contrat à temps complet, ou une alternance.
 
 * 🌍  Actuellement à Bordeaux
-* ✉️  Vous pouvez me coctacter ici : [t.alglalve90@gmail.com](mailto:t.alglalve90@gmail.com)
+* ✉️  Vous pouvez me conctacter ici : [t.alglalve90@gmail.com](mailto:t.alglalve90@gmail.com)
 * 🧠  Je suis en train d'étudier React.js
 
 ### Skills
