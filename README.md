@@ -5,13 +5,15 @@ Développeur Web Junior
 ----------------------
 
 # Qui suis-je ?
-Volontaire, ambitieux, rigoureux, et surtout, désireux d'apprendre et ce, dans tous les domaines. J'aime la culture générale, tester et savoir faire tout et n'importe quoi, voyager, découvrir encore et toujours. Tout cela est également valable pour le coté professionnel, où je cherche la satisfaction personnelle, ainsi que le développement de compétences pour toujours aller plus loin, et devenir de plus en plus fier et heureux du travail réalisé.
+Volontaire, ambitieux, rigoureux, et surtout, désireux d'apprendre et ce, dans tous les domaines. J'aime la culture générale, le savoir faire, voyager, découvrir encore et toujours. Cela vaut tout aussi bien pour le coté professionnel, où je cherche la satisfaction personnelle, développer mes compétences, ainsi qu'en apprendre de nouvelles.
 
 # Mon parcours :
-Chauffeur TAXI/VSL, Armée de l'Air, Armée de Terre, Scaphandrier, je me suis bien éclaté en pratiquant ces différents métiers. Cependant un malheureux et grave accident à l'intérieur de mon scaphandre m'a obligé à m'arrêter dans ma quête de sensations. Une page s'est tourné lorsque j'ai décidé de transformer cette peine, en opportunité. Aujourd'hui tourné vers le monde du Web, j'y découvre une réelle appaitance qui relance mon ambition à son plein régime !
+Chauffeur TAXI/VSL, Armée de l'Air, Armée de Terre, Scaphandrier, des expériences variées aux sensations diverses dans lesquels je me suis épanoui. 
+Fin novembre 2019, je me retrouve victime d'un accident grave, sous l'eau, piégé dans mon scaphandre sans oxygène. Après 2 ans d'examens, d'opérations, et de traitement, je décide de transformer cet accident en une opportunité à me diriger vers une vie plus stable et plus modérée. Je me suis tourné vers le monde du Web, ou j'y ait rapidement développé une vraie appétence. 
+Mes expériences passées sont une leçon de valeurs, que je met en pratique dans ce nouveau domaine au quotidien. 
 
 # Ma recherche :
-Aujourd'hui je cherche à développer mes compétences et devenir bon, pour ensuite devenir meilleur. Je cherche une entreprise dans laquelle je pourrai évoluer et m'investir. Ma recherche concerne donc un contrat à temps complet, ou une alternance.
+Je cherche à investir mon savoir-être et mon savoir faire au sein d'un entreprise qui me permettra en retour d'évoluer dans le domaine du développement web, en alternance, ou en CDI.
 
 * 🌍  Actuellement à Bordeaux
 * ✉️  Vous pouvez me conctacter ici : [t.alglalve90@gmail.com](mailto:t.alglalve90@gmail.com)
